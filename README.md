@@ -1,2 +1,2 @@
 # glyph-function
-入 means Function, which is a globally distributed Javascript that outputs JSON and is executed on the edge
+入 is Function, a globally distributed Javascript function that takes inputs and outputs JSON
